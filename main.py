@@ -5,7 +5,5 @@ options = Options()
 # options.add_argument("--headless")
 browser = webdriver.Firefox(firefox_options=options)
 
-print("hello world")
-
 browser.get("https://www.google.com")
 browser.quit()
