@@ -14,3 +14,4 @@ else:
     print("Error")
 
 #LEKOV UTRE SUM SLOBODEN MOZE DA SI PROGRAMIRAME DA SI SIMULIRAME
+# Помини ти овиа работи што ти ги напиша погоре и прашај што не ти е јасно :D
