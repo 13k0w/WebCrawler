@@ -12,3 +12,5 @@ if(req.code == 200): # https://www.restapitutorial.com/httpstatuscodes.html
     print("Success")
 else:
     print("Error")
+
+#LEKOV UTRE SUM SLOBODEN MOZE DA SI PROGRAMIRAME DA SI SIMULIRAME
